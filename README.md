@@ -2,7 +2,7 @@
 # SubHunter V1.5
 **Инструмент для поиска поддоменов и проверки их статуса в реальном времени**
 
-![screenshot](https://raw.githubusercontent.com/FreedomSec1337/SubHunter/main/eses.png) *(если доступно)*
+![screenshot](https://raw.githubusercontent.com/FreedomSec1337/SubHunter/main/eses.png) 
 ---
 
 ## Обзор
