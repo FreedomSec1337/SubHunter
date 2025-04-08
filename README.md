@@ -2,7 +2,7 @@
 # SubHunter V1.5
 **Инструмент для поиска поддоменов и проверки их статуса в реальном времени**
 | [GitHub](https://github.com/FreedomSec1337/SubHunter)
-
+![screenshot](https://raw.githubusercontent.com/FreedomSec1337/SubHunter/main/eses.png) *(если доступно)*
 ---
 
 ## Обзор
@@ -63,12 +63,6 @@ python3 SubHunter.py ukraine.ua
 ```
 
 После сканирования вас попросят сохранить результаты. Просто введите имя файла и наслаждайтесь славой.
-
----
-
-## Скриншот
-
-![screenshot](https://raw.githubusercontent.com/FreedomSec1337/SubHunter/main/eses.png) *(если доступно)*
 
 ---
 
