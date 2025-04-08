@@ -68,7 +68,7 @@ python3 SubHunter.py ukraine.ua
 
 ## Скриншот
 
-![screenshot](https://raw.githubusercontent.com/FreedomSec1337/SubHunter/main/screenshot.png) *(если доступно)*
+![screenshot](https://raw.githubusercontent.com/FreedomSec1337/SubHunter/main/eses.png) *(если доступно)*
 
 ---
 
