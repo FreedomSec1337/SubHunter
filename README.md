@@ -37,12 +37,6 @@ cd SubHunter
 ### 2. Установите зависимости:
 
 ```bash
-pip install -r requirements.txt
-```
-
-Если `requirements.txt` отсутствует, установите вручную:
-
-```bash
 pip install -r xxx.mp4
 ```
 
